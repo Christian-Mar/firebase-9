@@ -1,4 +1,4 @@
-import { Routes, Route, Redirect } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import { useAuthContext } from './hooks/useAuthContext';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
